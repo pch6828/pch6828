@@ -1,5 +1,8 @@
-### Hi there 👋
+# 박정호 (Park Jeong Ho)
 
+### 🌱 I’m currently learning ...
+- Database Management Systems
+- Algorithms for PS
 <!--
 **pch6828/pch6828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
