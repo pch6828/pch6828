@@ -3,6 +3,10 @@
 ### 🌱 I’m currently learning ...
 - Database Management Systems
 - Algorithms for PS
+
+### 🔭 I’m currently working on ...
+- Preparing Algorithm Contest Problem
+
 <!--
 **pch6828/pch6828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
