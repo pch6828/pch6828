@@ -1,4 +1,5 @@
 # 박정호 (Park Jeong Ho)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100009329985343)](https://www.facebook.com/profile.php?id=100009329985343)<br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=pch6828)](https://solved.ac/profile/pch6828)
 
 ### 🌱 I’m currently learning ...
