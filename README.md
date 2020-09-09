@@ -8,6 +8,7 @@
 
 ### 🔭 I’m currently working on ...
 - Preparing Algorithm Contest Problem
+- Implementing Some Modern Data Structure in Paper (Personal Studying)
 
 <!--
 **pch6828/pch6828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
