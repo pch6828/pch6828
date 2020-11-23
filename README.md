@@ -10,7 +10,6 @@
 - Algorithms for PS
 
 ### 🔭 I’m currently working on ...
-- Preparing Algorithm Contest Problem
 - Implementing Some Modern Data Structure in Paper (Personal Studying)
 
 <!--
