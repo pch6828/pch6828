@@ -5,8 +5,6 @@
 
 [![pch6828's github stats](https://github-readme-stats.vercel.app/api?username=pch6828&show_icons=true)](https://github-readme-stats.vercel.app/api?username=pch6828)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pch6828&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 🌱 I’m currently learning ...
 - Database Management Systems
 - Algorithms for PS
