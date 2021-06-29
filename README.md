@@ -9,12 +9,14 @@
 - Database Management Systems
 - Algorithms for PS
 - HTML, CSS, JS (a little bit)
+- React
 
 ### 🔭 I’m currently working on ...
 - Implementing Some Modern Data Structure in Paper (Personal Studying)
 - Implementing Simple DBMS with C++ (Personal Project)
 - Make Personal Web Site with JS (Personal Project)
 - Researching on Improving Performance of LSM-Tree Based Key-Value Store
+- Short-Term Internship in SmartDoctor
 
 <!--
 **pch6828/pch6828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
