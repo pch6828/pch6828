@@ -3,7 +3,7 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009329985343) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeong-ho-park-638304205/) <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpch6828&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=pch6828)](https://solved.ac/profile/pch6828)
 
-[![pch6828's github stats](https://github-readme-stats.vercel.app/api?username=pch6828&show_icons=true)](https://github-readme-stats.vercel.app/api?username=pch6828)
+[![pch6828's github stats](https://github-readme-stats.vercel.app/api?username=pch6828&show_icons=true&include_all_commits=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=pch6828)
 
 ### 🌱 I’m currently learning ...
 - Database Management Systems
