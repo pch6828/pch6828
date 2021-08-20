@@ -8,7 +8,7 @@
 ### 🌱 I’m currently learning ...
 - Database Management Systems
 - Algorithms for PS
-- HTML, CSS, JS (a little bit)
+- HTML, CSS, JS, TS (a little bit)
 - React
 
 ### 🔭 I’m currently working on ...
