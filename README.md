@@ -6,15 +6,8 @@
 [![pch6828's github stats](https://github-readme-stats.vercel.app/api?username=pch6828&show_icons=true&include_all_commits=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=pch6828)
 
 ### 🌱 I’m currently learning ...
-- Database Management Systems
+- Graph DBMS
 - Algorithms for PS
-- HTML, CSS, JS, TS (a little bit)
-- React
-
-### 🔭 I’m currently working on ...
-- Implementing Some Modern Data Structure in Paper (Personal Studying)
-- Implementing Simple DBMS with C++ (Personal Project)
-- Make Personal Web Site with JS (Personal Project)
 
 <!--
 **pch6828/pch6828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
