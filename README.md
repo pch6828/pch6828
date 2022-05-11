@@ -9,6 +9,9 @@
 - Graph DBMS
 - Algorithms for PS
 
+### 🔭 I’m currently working on ...
+- Research about Graph DBMS
+
 <!--
 **pch6828/pch6828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
