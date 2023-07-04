@@ -10,6 +10,7 @@
 - Algorithms for PS
 
 ### 🔭 I’m currently working on ...
+- Graph Extraction from Relational Data
 - Research about Graph DBMS
 
 <!--
