@@ -5,6 +5,14 @@
 
 [![pch6828's github stats](https://github-readme-stats.vercel.app/api?username=pch6828&show_icons=true&include_all_commits=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=pch6828)
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/pch6828?pet-id=662288991655276467"
+    width="600"
+    height="600"
+  />
+</a>
+
 ### 🌱 I’m currently learning ...
 - Graph DBMS
 - Algorithms for PS
